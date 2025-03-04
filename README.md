@@ -50,10 +50,10 @@ This is a full-stack e-commerce web application built using the MERN (MongoDB, E
 ```
 
 
-## 🎯 Future Enhancements
-- 📦 Wishlist functionality
-- 📊 Admin dashboard for analytics
-- 🔔 Email notifications for order updates
-- ⭐ Product reviews and ratings
+## 🎯 Future Enhancements (🚧 Under Development)
+- 📦 Wishlist functionality *(In Progress)*
+- 📊 Admin dashboard for analytics *(Work Underway)*
+- 🔔 Email notifications for order updates *(Coming Soon)*
+- ⭐ Product reviews and ratings *(Under Development)*
 
 
